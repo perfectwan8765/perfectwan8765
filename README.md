@@ -19,5 +19,6 @@
 
 ## My Link
 [![Blog](https://img.shields.io/badge/Blog-202125.svg?&style=for-the-badge&logo=Storyblok&logoColor=white)](https://developnote-blog.tistory.com/)
+[![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)](https://bit.ly/3rIVrLn)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/j_sangwan/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:perfectwan8765@gmail.com)
