@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=668efd&height=300&section=header&text=Welcome%20JSW's%20Github&fontSize=60&animation=fadeIn)
+![Header](./github-header-image.png)
 
 ## Skill.
 * `Docker`를 활용한 제품 구성 및 운영 경험
