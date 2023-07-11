@@ -9,24 +9,18 @@
 * `Jira, Confluence` 등 협업 Tool 활용 능력
 
 ## Tech Stack.
+![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white)
+![kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE.svg?&style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white)   
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF.svg?&style=for-the-badge&logo=apachehadoop&logoColor=white)
+![Ceph](https://img.shields.io/badge/Ceph-EF5C55.svg?&style=for-the-badge&logo=ceph&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C.svg?&style=for-the-badge&logo=apachespark&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-DD00A1.svg?&style=for-the-badge&logo=trino&logoColor=white)   
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-e51f24.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F.svg?&style=for-the-badge&logo=Thymeleaf&logoColor=white)   
-![JavaScript](https://img.shields.io/badge/JavaScript-f3df1d.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=white)
-![BootStrap](https://img.shields.io/badge/BootStrap-7952B3.svg?&style=for-the-badge&logo=BootStrap&logoColor=white)   
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)   
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121.svg?&style=for-the-badge&logo=GitLab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE.svg?&style=for-the-badge&logo=ApacheAirflow&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36.svg?&style=for-the-badge&logo=ApacheMaven&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white)   
-![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D.svg?&style=for-the-badge&logo=Confluence&logoColor=white)
+![Fastapi](https://img.shields.io/badge/Fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white)   
+
 
 ## Channel.
 [![Blog](https://img.shields.io/badge/Blog-202125.svg?&style=for-the-badge&logo=Storyblok&logoColor=white)](https://developnote-blog.tistory.com/)
