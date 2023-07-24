@@ -1,12 +1,11 @@
 ![Header](./github-header-image.png)
 
 ## Skill.
-* `Docker`를 활용한 제품 구성 및 운영 경험
-* `Oracle, PostgreSQL`를 제품 Repository로 운영
-* `Jenkins, GitLab CI`를 활용한 자동배포 및 환경 구성 경험
-* `Airflow`를 활용한 Data Pipeline 구성
-* `Spring` 기반 Web Applcation 개발 능력
-* `Jira, Confluence` 등 협업 Tool 활용 능력
+* `Kafka` Cluster 구축 및 운영, Kafka 중심의 Data pipeline 운영
+* Bare Metal Server에서 `Kubernetes` Cluster 구축 및 운영
+* `Airflow` 운영 및 Workflow 관리
+* `Trino`를 활용한 분산 쿼리 엔진 운영
+* `Prometheus`와 `Garafana`를 통한 Dashboard 구성, 모니터링
 
 ## Tech Stack.
 ![Kafka](https://img.shields.io/badge/Kafka-231F20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white)
